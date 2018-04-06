@@ -1,1 +1,1 @@
-# slooth
+# euan.github.io
