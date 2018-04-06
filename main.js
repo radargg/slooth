@@ -1,7 +1,7 @@
 $(document).ready(function() {
     var plinks = [
 		{
-            name: 'Stars cant shine without darkness',
+            name: 'Stars can't shine without darkness',
             plink: 'https://www.youtube.com/watch?v=hSlb1ezRqfA'
 		}
 		];    
