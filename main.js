@@ -1,8 +1,8 @@
 $(document).ready(function() {
     var plinks = [
 		{
-            name: 'Stars cant shine without darkness',
-            plink: 'http://steamcommunity.com/id/radarfps'
+            name: '<i>Stars cant shine without darkness</i>',
+            plink: 'https://www.youtube.com/watch?v=hSlb1ezRqfA'
 		}
 		];    
 	
