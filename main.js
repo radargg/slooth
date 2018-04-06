@@ -1,21 +1,9 @@
 $(document).ready(function() {
     var plinks = [
 		{
-            name: 'radar',
+            name: 'Stars cant shine without darkness',
             plink: 'http://steamcommunity.com/id/radarfps'
-       },       
-	   {
-            name: 'ream',
-            plink: 'http://steamcommunity.com/id/reamrust'
-        },
-	   {
-            name: 'crexd',
-            plink: 'http://steamcommunity.com/id/crexdd'
-        },
-		{
-            name: 'lewis',
-            plink: 'http://steamcommunity.com/id/76561198383679379'
-		},
+		}
 		];    
 	
     for (var i in plinks) {
