@@ -1,9 +1,13 @@
 $(document).ready(function() {
     var plinks = [
 		{
-            name: 'Stars can't shine without darkness',
+            name: 'Stars cant shine without darkness',
             plink: 'https://www.youtube.com/watch?v=hSlb1ezRqfA'
-		}
+       },       
+	   {
+            name: 'Stars cant shine without darkness',
+            plink: 'https://www.youtube.com/watch?v=hSlb1ezRqfA'
+        },
 		];    
 	
     for (var i in plinks) {
